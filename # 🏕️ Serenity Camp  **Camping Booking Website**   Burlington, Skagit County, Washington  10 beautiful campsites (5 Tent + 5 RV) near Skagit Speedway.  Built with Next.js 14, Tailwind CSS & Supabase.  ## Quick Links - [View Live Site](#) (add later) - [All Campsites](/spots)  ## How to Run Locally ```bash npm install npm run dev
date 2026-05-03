@@ -1,0 +1,17 @@
+# 🏕️ Serenity Camp
+
+**Camping Booking Website**  
+Burlington, Skagit County, Washington
+
+10 beautiful campsites (5 Tent + 5 RV) near Skagit Speedway.
+
+Built with Next.js 14, Tailwind CSS & Supabase.
+
+## Quick Links
+- [View Live Site](#) (add later)
+- [All Campsites](/spots)
+
+## How to Run Locally
+```bash
+npm install
+npm run dev
